@@ -1,3 +1,12 @@
 # Flood Fill Networks
 
 _[Arxiv](https://arxiv.org/abs/1611.00421)_
+
+### Architecture
+
+3D residual convolution blocks separated by ReLU nonlinearites.
+The spatial resolution between the input and output of the 
+network are identical.
+
+This architecture is nearly identical to the PixelCNN [[pixel_cnn]], the
+first convolutional network used in connectomic reconstruction.
