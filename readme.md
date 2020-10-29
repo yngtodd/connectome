@@ -1,5 +1,3 @@
-# Connectome
-
 Notes for connectome computer vision research.
 
 - [[ffn]] - Flood Fill Networks
