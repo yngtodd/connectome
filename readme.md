@@ -3,6 +3,7 @@
 Notes for connectome computer vision research.
 
 - [[ffn]] - Flood Fill Networks
+- [[pixel_cnn]] - Pixel CNN
 - [[inbox]] - a place to write down quick notes to be categorised later
 - [[todo]] - a place to keep track of things to do
 
