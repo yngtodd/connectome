@@ -8,5 +8,5 @@ _[Arxiv](https://arxiv.org/abs/1611.00421)_
 The spatial resolution between the input and output of the 
 network are identical.
 
-This architecture is nearly identical to the PixelCNN [[pixel_cnn]], the
+This architecture is nearly identical to the PixelCNN [[pixelcnn]], the
 first convolutional network used in connectomic reconstruction.
